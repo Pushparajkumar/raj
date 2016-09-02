@@ -1,5 +1,5 @@
 import java.util.HashMap;
-public class Isomorphic {
+public class Isomorphicraj {
 
 static boolean isIsomorphic(String s, String t) {
 
