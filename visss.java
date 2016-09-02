@@ -1,4 +1,5 @@
-class Interval {
+class Intervalraj 
+{
 	int start;
 	int end;
  
