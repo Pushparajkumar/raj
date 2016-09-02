@@ -1,6 +1,6 @@
 import java.util.*;
 
-public static class Word {
+public static class Wordraj {
         String word;
         int spaces;
 
