@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class summ {
+public class summ1 {
 	public static void main(String o[]){
 		int n,sum=0;
 		int b[] = new int[100];
